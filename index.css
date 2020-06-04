@@ -6,7 +6,7 @@
 #main{
 	width: 100%;
 	height: 100vh;/*vertical height*/
-	background-image: url(Splendid/images/Software - Copy.jpg);
+	background-image: url('Splendid/images/Software - Copy.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 }
