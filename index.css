@@ -117,3 +117,6 @@ input{
 background-color: red;
 color: cyan;
 }
+@media(max-width:768px){
+	
+}
