@@ -3,6 +3,14 @@
 	padding: 0px; 
 	font-family: verdana;
 }
+.wrapper{
+	padding-left: 60px;
+	padding-right: 250px;
+	display: grid;
+	grid-template-columns:70% 30%;
+	grid-column-gap: 1em;
+	grid-row-gap: 4em;
+}
 #main{
 	width: 100%;
 	height: 100vh;/*vertical height*/
